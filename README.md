@@ -13,7 +13,7 @@ This repository contains C++ implementations for prime checking and factorizatio
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Prime-Factorization.git
+    git clone https://github.com/Himanshu-0502/Prime-Factorization.git
     cd Prime-Factorization
     ```
 
