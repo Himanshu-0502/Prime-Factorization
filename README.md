@@ -14,20 +14,12 @@ This repository contains C++ implementations for prime checking and factorizatio
 1. Clone the repository:
     ```sh
     git clone https://github.com/Himanshu-0502/Prime-Factorization.git
+    ```
+
+2. Navigate to the directory:
+   ```sh
     cd Prime-Factorization
-    ```
-
-2. Compile the programs:
-    ```sh
-    g++ Prime.cpp -o prime
-    g++ Factorization.cpp -o factorize
-    ```
-
-3. Run the programs:
-    ```sh
-    ./prime
-    ./factorize
-    ```
+   ```
 
 ## Usage
 
